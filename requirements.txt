@@ -1,0 +1,12 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+pdfplumber
+pypdf
+python-docx
+transformers
+torch
+plotly
+spacy
